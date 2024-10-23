@@ -1,0 +1,5 @@
+.bundle
+.env
+node_modules/
+*.log
+tmp/
